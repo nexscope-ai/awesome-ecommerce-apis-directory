@@ -119,6 +119,7 @@ APIs for product imagery, image editing, video rendering, and virtual try-on. Th
 Developer-facing interfaces that help connect ecommerce systems or expose commerce capabilities to compatible AI agents. This is intentionally limited to tools with a documented commerce-specific integration surface.
 
 - [API2Cart](https://api2cart.com/docs/) — A unified API for connecting ecommerce software to supported stores and marketplaces. `REST`
+- [Clickwise](<https://partners.clickwise.net/developers/>) — Affiliate programs, deals and tracked links, plus product search by text or GTIN. `REST` `MCP`
 - [Shopify WebMCP](https://shopify.dev/docs/api/web-mcp) — WebMCP tools for supported Shopify storefront catalog and search interactions. `MCP`
 
 ## Inclusion policy
