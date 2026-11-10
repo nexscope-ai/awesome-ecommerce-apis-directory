@@ -72,6 +72,8 @@ APIs for product research, catalog intelligence, pricing, reviews, shopping resu
 - [Bloomreach Discovery APIs](https://documentation.bloomreach.com/discovery/reference/welcome) — APIs for product-catalog ingestion, search, merchandising, and recommendations. `REST`
 - [Bright Data Amazon Scraper API](https://docs.brightdata.com/datasets/scrapers/amazon/introduction) — Structured Amazon product, review, seller, and search-result data via API. `REST`
 - [DataForSEO Merchant API](https://docs.dataforseo.com/v3/merchant/) — Product and merchant-data API documentation from DataForSEO. `REST`
+- [FlashData Google Shopping API](https://flashdata.dev/docs/sources/google_shopping) — Structured Google Shopping results with product links, displayed prices, merchants, and optional ratings. `REST`
+
 - [Keepa API](https://keepa.com/api-docs/) — Amazon product, price-history, offer, seller, deal, and product-tracking data. `REST`
 - [PowerReviews APIs](https://apidocs.powerreviews.com/) — APIs for product-review, question-and-answer, review-display, and review-submission integrations. `REST`
 - [PriceAPI](https://www.priceapi.com/documentation/) — APIs for product and price information from supported online shops. `REST`
