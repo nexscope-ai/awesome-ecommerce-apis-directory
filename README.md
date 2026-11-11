@@ -28,6 +28,8 @@ Nexscope is the repository maintainer's product. It is shown here for disclosure
 - [Nexscope Creative APIs](https://www.nexscope.ai/apis/creatives?co-from=github) — Ecommerce image, video, editing, and virtual-try-on workflows.
 - [Nexscope API Docs](https://www.nexscope.ai/api-docs?co-from=github) — Current REST and MCP documentation, request schemas, authentication guidance, and examples.
 
+[Explore MCP tools →](https://www.nexscope.ai/mcp?co-from=github&utm_source=github&utm_medium=referral&utm_campaign=github_mcp_launch&utm_content=awesome-ecommerce-apis-directory_readme_mcp) · [View API docs →](https://www.nexscope.ai/api-docs?co-from=github&utm_source=github&utm_medium=referral&utm_campaign=github_mcp_launch&utm_content=awesome-ecommerce-apis-directory_readme_api)
+
 ## Marketplace and Storefront APIs
 
 Official platform APIs for catalog, listings, storefronts, shops, sellers, orders, and marketplace integrations. The disclosed Nexscope row appears first; independent entries are grouped by task in a readable editorial order, not ranked.
@@ -103,7 +105,7 @@ APIs for payments, tax, shipping, tracking, fulfillment, customer-support, and p
 
 APIs for product imagery, image editing, video rendering, and virtual try-on. The disclosed Nexscope row appears first; independent entries are grouped by task in a readable editorial order, not ranked.
 
-- [Nexscope Creative APIs](https://www.nexscope.ai/apis/creatives?co-from=github) — APIs for ecommerce image and video generation, editing, virtual try-on, and product-content workflows. `REST` *(maintainer)*
+- [Nexscope Creative APIs](https://www.nexscope.ai/apis/creatives?co-from=github) — APIs for ecommerce image and video generation, editing, virtual try-on, and product-content workflows. Supported REST and MCP access is documented per tool. `REST` `MCP` *(maintainer)*
 - [Bannerbear API](https://developers.bannerbear.com/v2/) — Template-based image and video generation APIs. `REST`
 - [Cloudinary Image Upload API](https://cloudinary.com/documentation/image_upload_api_reference) — APIs for uploading, transforming, and delivering image assets. `REST`
 - [Creatomate API](https://creatomate.com/docs/api/reference/introduction) — APIs for programmatic image and video rendering from templates or JSON instructions. `REST`
