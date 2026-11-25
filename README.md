@@ -63,6 +63,8 @@ Official platform APIs for catalog, listings, storefronts, shops, sellers, order
 - [Walmart Marketplace APIs](https://developer.walmart.com/us-marketplace/docs/integrate-with-marketplace-apis) — APIs for Walmart Marketplace catalog, inventory, sales, and performance workflows. `REST`
 - [Wix eCommerce API](https://dev.wix.com/docs/velo/apis/wix-ecom-backend/introduction) — APIs for Wix ecommerce carts, checkout, discounts, recommendations, orders, and transactions. `REST`
 - [WooCommerce REST API](https://woocommerce.github.io/woocommerce-rest-api-docs/) — APIs for WooCommerce store data and operations. `REST`
+- [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) — Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+- [Etsy Shop Daily Sales](https://apify.com/publicrecords/etsy-shop-velocity) — Daily, 7-day and 28-day sales for Etsy shops from each shop's public sales counter (Apify Actor, API + MCP).
 
 ## Product and Market Intelligence APIs
 
